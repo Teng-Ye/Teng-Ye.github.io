@@ -29,4 +29,17 @@
         <tag>new</tag>
       </tags>
   </entry>
+  <entry>
+    <title>new1</title>
+    <url>/2021/05/08/new1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>标题</title>
+    <url>/2021/05/09/new2/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类</category>
+      </categories>
+  </entry>
 </search>
