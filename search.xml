@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>新文章</title>
-    <url>/2021/05/08/%E6%96%B0%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>新类别</category>
-      </categories>
-      <tags>
-        <tag>old</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>test</title>
     <url>/2021/05/07/test/</url>
     <content><![CDATA[<blockquote><p>cnm.</p>
@@ -45,6 +34,17 @@
 <hr>
 <p>三个或以上的*或-为分隔线<br><del>双~删除线</del><br><u>&lt;u&gt;下划线&lt;/u&gt;</u><br>Content [^1]<br>[^1]: Hi! This is a footnote</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>新文章</title>
+    <url>/2021/05/08/%E6%96%B0%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>新类别</category>
+      </categories>
+      <tags>
+        <tag>old</tag>
+      </tags>
   </entry>
   <entry>
     <title>新类别</title>
