@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>利用hexo和github Page搭建自己的博客</title>
-    <url>/2021/05/07/%E5%88%A9%E7%94%A8hexo%E5%92%8Cgithub%20Page%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h1 id="How-are-you"><a href="#How-are-you" class="headerlink" title="How are you"></a>How are you</h1><h2 id="nice"><a href="#nice" class="headerlink" title="nice"></a>nice</h2><p>空两格再回车换行<br><em>*或 _斜体</em><br><strong>双*或_粗体</strong>  </p>
-<hr>
-<hr>
-<hr>
-<hr>
-<p>三个或以上的*或-为分隔线<br><del>双~删除线</del><br><u>&lt;u&gt;下划线&lt;/u&gt;</u><br>Content [^1]<br>[^1]: Hi! This is a footnote</p>
-]]></content>
+    <title>新文章</title>
+    <url>/2021/05/08/%E6%96%B0%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>新类别</category>
+      </categories>
+      <tags>
+        <tag>old</tag>
+      </tags>
   </entry>
   <entry>
     <title>test</title>
@@ -36,12 +36,15 @@
       </tags>
   </entry>
   <entry>
-    <title>新类别</title>
-    <url>/2021/05/08/%E6%96%B0%E7%B1%BB%E5%88%AB/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>新类别</category>
-      </categories>
+    <title>利用hexo和github Page搭建自己的博客</title>
+    <url>/2021/05/07/%E5%88%A9%E7%94%A8hexo%E5%92%8Cgithub%20Page%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h1 id="How-are-you"><a href="#How-are-you" class="headerlink" title="How are you"></a>How are you</h1><h2 id="nice"><a href="#nice" class="headerlink" title="nice"></a>nice</h2><p>空两格再回车换行<br><em>*或 _斜体</em><br><strong>双*或_粗体</strong>  </p>
+<hr>
+<hr>
+<hr>
+<hr>
+<p>三个或以上的*或-为分隔线<br><del>双~删除线</del><br><u>&lt;u&gt;下划线&lt;/u&gt;</u><br>Content [^1]<br>[^1]: Hi! This is a footnote</p>
+]]></content>
   </entry>
   <entry>
     <title>新类别</title>
@@ -52,14 +55,11 @@
       </categories>
   </entry>
   <entry>
-    <title>新文章</title>
-    <url>/2021/05/08/%E6%96%B0%E6%96%87%E7%AB%A0/</url>
+    <title>新类别</title>
+    <url>/2021/05/08/%E6%96%B0%E7%B1%BB%E5%88%AB/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>新类别</category>
       </categories>
-      <tags>
-        <tag>old</tag>
-      </tags>
   </entry>
 </search>
