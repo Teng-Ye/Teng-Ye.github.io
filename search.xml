@@ -3,12 +3,8 @@
   <entry>
     <title>利用hexo和github Page搭建自己的博客</title>
     <url>/2021/05/07/%E5%88%A9%E7%94%A8hexo%E5%92%8Cgithub%20Page%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h1 id="How-are-you"><a href="#How-are-you" class="headerlink" title="How are you"></a>How are you</h1><h2 id="nice"><a href="#nice" class="headerlink" title="nice"></a>nice</h2><p>空两格再回车换行<br><em>*或 _斜体</em><br><strong>双*或_粗体</strong>  </p>
-<hr>
-<hr>
-<hr>
-<hr>
-<p>三个或以上的*或-为分隔线<br><del>双~删除线</del><br><u>&lt;u&gt;下划线&lt;/u&gt;</u><br>Content [^1]<br>[^1]: Hi! This is a footnote</p>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>网上其实有很多可以发表文章的博客平台，博客园、CSDN、简书、知乎专栏等等。使用平台发表文章有很多优点，首先是很方便，只要注册之后基本都是一键发表，第二是推广相对较容易，在各大搜索引擎都很容易搜到这些平台的文章。相比起来自建博客其实麻烦得多，而且功能可能也比平台单调，但是相比起平台，自建博客有更大的自由度，你的文章并不需要经过平台审核，也不怕被删除，更不怕平台关闭。就比如之前博客园整改的事，整改其实就相当于关站了，这样一来原本在博客园写博客的人就得找一个新的平台，并将所有文章迁移。再说，拥有一片自己的小天地总归是一件激动人心的事。<br>下面就开始吧~<br><br/><br/></p>
+<h1 id="搭建主体"><a href="#搭建主体" class="headerlink" title="搭建主体"></a>搭建主体</h1><p>自建博客的整个过程可以看作是建一座房子，首先你需要一块土地，也就是<strong>服务器</strong>，用来储存你的网页文件，文章等，而大部分云服务器的租用动辄数百元一年，对于学生党来说还是较贵了一点，再者云服务器配置问题也需要一定时间精力去学习。所以我这里使用的是<strong>Github Page</strong>，它是 Github 提供的一种免费的静态网页托管服务，其实就是帮你在预定的域名发布你上传到github仓库的静态网页。所以你可以不花一分钱就可以把你的博客储存在github仓库中，并供人访问。<br>既然你已经有了自己的一个地方，那你当然会希望给它取一个响亮的名字，也就是域名，是给别人访问时输入的url，所以最好要好记。你可以在网上购买到自己满意的域名。当然也可以去 <a href="http://www.freenom.com/">www.freenom.com</a></p>
 ]]></content>
   </entry>
   <entry>
